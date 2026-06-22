@@ -80,5 +80,5 @@ Game shooter sederhana menggunakan Android Studio Java.
 
 ### 📫 Contact Me
 
-- Email: your-email@gmail.com
+- Email: Luqqmann7@gmail.com
 - Portfolio: https://portofolioluqmanul.netlify.app/
